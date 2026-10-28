@@ -1,0 +1,46 @@
+name: sync
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/updates.json'
+  workflow_dispatch: # 允许手动触发（Actions 页 → sync → Run workflow）
+  schedule:
+    - cron: '30 16 * * *' # 每天 00:30（UTC+8）自动刷新状态快照
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bangumi-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 读取队列并同步到 Bangumi
+        env:
+          BANGUMI_API_KEY: ${{ secrets.BANGUMI_API_KEY }}
+        run: node scripts/sync.mjs
+
+      - name: 提交（清零队列 + 刷新快照）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -z "$(git status --porcelain -- data/updates.json data/state.json)" ]; then
+            echo "没有需要提交的变更"
+          else
+            git add data/updates.json data/state.json
+            git commit -m "sync: 应用更新并刷新状态快照 [skip ci]"
+            git pull --rebase origin main
+            git push
+          fi

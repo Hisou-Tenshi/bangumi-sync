@@ -1,0 +1,198 @@
+{
+  "version": 1,
+  "synced_at": "2026-10-28T10:02:26.487Z",
+  "user": {
+    "id": 1009342,
+    "username": "1009342",
+    "nickname": "全人類都飛上天"
+  },
+  "summary": {
+    "wish": 10,
+    "on_hold": 0,
+    "done": 250,
+    "dropped": 1,
+    "doing": 15
+  },
+  "watching": [
+    {
+      "subject_id": 625799,
+      "name": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
+      "name_cn": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
+      "air_date": "2026-10-06",
+      "eps": 12,
+      "ep_status": 4,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-10-28T18:01:20+08:00"
+    },
+    {
+      "subject_id": 554779,
+      "name": "生徒会にも穴はある！",
+      "name_cn": "学生会也有洞！",
+      "air_date": "2026-10-03",
+      "eps": 12,
+      "ep_status": 4,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-10-28T17:56:49+08:00"
+    },
+    {
+      "subject_id": 203526,
+      "name": "メイドインアビス",
+      "name_cn": "来自深渊",
+      "air_date": "2017-07-07",
+      "eps": 13,
+      "ep_status": 5,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-10-23T19:44:10+08:00"
+    },
+    {
+      "subject_id": 622288,
+      "name": "FX戦士くるみちゃん",
+      "name_cn": "FX战士久留美",
+      "air_date": "2026-10-01",
+      "eps": 12,
+      "ep_status": 0,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-10-23T19:40:16+08:00"
+    },
+    {
+      "subject_id": 590553,
+      "name": "てつりょー！meet with 鉄道むすめ",
+      "name_cn": "铁旅！meet with 铁道少女",
+      "air_date": "2026-10-08",
+      "eps": 12,
+      "ep_status": 0,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-10-23T19:38:59+08:00"
+    },
+    {
+      "subject_id": 537738,
+      "name": "とある暗部の少女共棲",
+      "name_cn": "某暗部的少女共栖",
+      "air_date": "2026-10-09",
+      "eps": 0,
+      "ep_status": 0,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-10-23T19:37:46+08:00"
+    },
+    {
+      "subject_id": 624085,
+      "name": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
+      "name_cn": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
+      "air_date": "2026-10-06",
+      "eps": 25,
+      "ep_status": 0,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-10-23T19:37:20+08:00"
+    },
+    {
+      "subject_id": 568244,
+      "name": "薬屋のひとりごと 第3期",
+      "name_cn": "药屋少女的呢喃 第三季",
+      "air_date": "2026-10-02",
+      "eps": 12,
+      "ep_status": 0,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-10-23T18:32:58+08:00"
+    },
+    {
+      "subject_id": 299427,
+      "name": "荒野のコトブキ飛行隊 完全版",
+      "name_cn": "荒野的寿飞行队 完全版",
+      "air_date": "2020-09-11",
+      "eps": 1,
+      "ep_status": 0,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-07-20T20:29:34+08:00"
+    },
+    {
+      "subject_id": 279048,
+      "name": "荒野のコトブキ飛行隊外伝 大空のハルカゼ飛行隊",
+      "name_cn": "荒野的寿飞行队外传 天空的春风飞行队",
+      "air_date": "2019-04-10",
+      "eps": 12,
+      "ep_status": 0,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-07-20T20:29:12+08:00"
+    },
+    {
+      "subject_id": 260467,
+      "name": "荒野のコトブキ飛行隊",
+      "name_cn": "荒野的寿飞行队",
+      "air_date": "2019-01-13",
+      "eps": 12,
+      "ep_status": 0,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-07-20T20:28:52+08:00"
+    },
+    {
+      "subject_id": 643828,
+      "name": "THE RIBBON HERO リボンヒーロー",
+      "name_cn": "缎带英雄",
+      "air_date": "2026-08-08",
+      "eps": 1,
+      "ep_status": 0,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-07-06T16:43:17+08:00"
+    },
+    {
+      "subject_id": 272188,
+      "name": "邪神ちゃんドロップキック’",
+      "name_cn": "邪神与厨二病少女’",
+      "air_date": "2020-04-06",
+      "eps": 12,
+      "ep_status": 2,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-06-21T13:05:57+08:00"
+    },
+    {
+      "subject_id": 3110,
+      "name": "灼眼のシャナS",
+      "name_cn": "灼眼的夏娜S",
+      "air_date": "2009-10-23",
+      "eps": 4,
+      "ep_status": 0,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-06-03T11:41:12+08:00"
+    },
+    {
+      "subject_id": 544816,
+      "name": "最終楽章 響け！ユーフォニアム 前編",
+      "name_cn": "最终乐章 吹响吧！上低音号 前篇",
+      "air_date": "2026-04-24",
+      "eps": 1,
+      "ep_status": 0,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-01-14T21:12:14+08:00"
+    }
+  ]
+}
