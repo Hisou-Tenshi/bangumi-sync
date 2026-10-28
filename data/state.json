@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_at": "2026-10-28T10:02:26.487Z",
+  "synced_at": "2026-10-28T10:03:25.443Z",
   "user": {
     "id": 1009342,
     "username": "1009342",
@@ -8,8 +8,8 @@
   },
   "summary": {
     "wish": 10,
-    "on_hold": 0,
     "done": 250,
+    "on_hold": 0,
     "dropped": 1,
     "doing": 15
   },
