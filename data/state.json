@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "synced_at": "2026-10-28T10:03:25.443Z",
+  "synced_at": "2026-10-28T10:05:08.020Z",
   "user": {
     "id": 1009342,
     "username": "1009342",
     "nickname": "全人類都飛上天"
   },
   "summary": {
-    "wish": 10,
-    "done": 250,
-    "on_hold": 0,
     "dropped": 1,
-    "doing": 15
+    "doing": 15,
+    "done": 250,
+    "wish": 10,
+    "on_hold": 0
   },
   "watching": [
     {
@@ -24,7 +24,7 @@
       "rate": 0,
       "comment": "",
       "private": false,
-      "updated_at": "2026-10-28T18:01:20+08:00"
+      "updated_at": "2026-10-28T18:05:05+08:00"
     },
     {
       "subject_id": 554779,
