@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "synced_at": "2026-10-30T20:57:57.297Z",
+  "synced_at": "2026-10-31T20:10:20.228Z",
   "user": {
     "id": 1009342,
     "username": "1009342",
     "nickname": "全人類都飛上天"
   },
   "summary": {
-    "on_hold": 0,
-    "wish": 10,
     "doing": 15,
-    "done": 250,
-    "dropped": 1
+    "dropped": 1,
+    "wish": 10,
+    "on_hold": 0,
+    "done": 250
   },
   "watching": [
     {
@@ -79,7 +79,7 @@
       "name": "とある暗部の少女共棲",
       "name_cn": "某暗部的少女共栖",
       "air_date": "2026-10-09",
-      "eps": 0,
+      "eps": 11,
       "ep_status": 0,
       "rate": 0,
       "comment": "",
