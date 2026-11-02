@@ -1,19 +1,67 @@
 {
   "version": 1,
-  "synced_at": "2026-11-01T20:41:36.759Z",
+  "synced_at": "2026-11-02T23:38:31.947Z",
   "user": {
     "id": 1009342,
     "username": "1009342",
     "nickname": "全人類都飛上天"
   },
   "summary": {
-    "on_hold": 0,
     "wish": 10,
-    "dropped": 1,
+    "doing": 15,
+    "on_hold": 0,
     "done": 250,
-    "doing": 15
+    "dropped": 1
   },
   "watching": [
+    {
+      "subject_id": 537738,
+      "name": "とある暗部の少女共棲",
+      "name_cn": "某暗部的少女共栖",
+      "air_date": "2026-10-09",
+      "eps": 11,
+      "ep_status": 4,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-11-02T23:12:33+08:00"
+    },
+    {
+      "subject_id": 624085,
+      "name": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
+      "name_cn": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
+      "air_date": "2026-10-06",
+      "eps": 25,
+      "ep_status": 4,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-11-02T17:31:02+08:00"
+    },
+    {
+      "subject_id": 622288,
+      "name": "FX戦士くるみちゃん",
+      "name_cn": "FX战士久留美",
+      "air_date": "2026-10-01",
+      "eps": 12,
+      "ep_status": 5,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-11-02T14:01:10+08:00"
+    },
+    {
+      "subject_id": 554779,
+      "name": "生徒会にも穴はある！",
+      "name_cn": "学生会也有洞！",
+      "air_date": "2026-10-03",
+      "eps": 12,
+      "ep_status": 5,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-11-02T12:47:37+08:00"
+    },
     {
       "subject_id": 625799,
       "name": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
@@ -25,18 +73,6 @@
       "comment": "",
       "private": false,
       "updated_at": "2026-10-28T18:05:05+08:00"
-    },
-    {
-      "subject_id": 554779,
-      "name": "生徒会にも穴はある！",
-      "name_cn": "学生会也有洞！",
-      "air_date": "2026-10-03",
-      "eps": 12,
-      "ep_status": 4,
-      "rate": 0,
-      "comment": "",
-      "private": false,
-      "updated_at": "2026-10-28T17:56:49+08:00"
     },
     {
       "subject_id": 203526,
@@ -51,18 +87,6 @@
       "updated_at": "2026-10-23T19:44:10+08:00"
     },
     {
-      "subject_id": 622288,
-      "name": "FX戦士くるみちゃん",
-      "name_cn": "FX战士久留美",
-      "air_date": "2026-10-01",
-      "eps": 12,
-      "ep_status": 0,
-      "rate": 0,
-      "comment": "",
-      "private": false,
-      "updated_at": "2026-10-23T19:40:16+08:00"
-    },
-    {
       "subject_id": 590553,
       "name": "てつりょー！meet with 鉄道むすめ",
       "name_cn": "铁旅！meet with 铁道少女",
@@ -73,30 +97,6 @@
       "comment": "",
       "private": false,
       "updated_at": "2026-10-23T19:38:59+08:00"
-    },
-    {
-      "subject_id": 537738,
-      "name": "とある暗部の少女共棲",
-      "name_cn": "某暗部的少女共栖",
-      "air_date": "2026-10-09",
-      "eps": 11,
-      "ep_status": 0,
-      "rate": 0,
-      "comment": "",
-      "private": false,
-      "updated_at": "2026-10-23T19:37:46+08:00"
-    },
-    {
-      "subject_id": 624085,
-      "name": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
-      "name_cn": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
-      "air_date": "2026-10-06",
-      "eps": 25,
-      "ep_status": 0,
-      "rate": 0,
-      "comment": "",
-      "private": false,
-      "updated_at": "2026-10-23T19:37:20+08:00"
     },
     {
       "subject_id": 568244,
