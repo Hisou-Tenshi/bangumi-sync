@@ -1,19 +1,43 @@
 {
   "version": 1,
-  "synced_at": "2026-11-12T22:22:13.258Z",
+  "synced_at": "2026-11-13T22:04:02.224Z",
   "user": {
     "id": 1009342,
     "username": "1009342",
     "nickname": "全人類都飛上天"
   },
   "summary": {
-    "wish": 10,
     "on_hold": 0,
+    "dropped": 1,
+    "wish": 10,
     "done": 255,
-    "doing": 14,
-    "dropped": 1
+    "doing": 14
   },
   "watching": [
+    {
+      "subject_id": 622288,
+      "name": "FX戦士くるみちゃん",
+      "name_cn": "FX战士久留美",
+      "air_date": "2026-10-01",
+      "eps": 12,
+      "ep_status": 7,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-11-13T23:56:14+08:00"
+    },
+    {
+      "subject_id": 537738,
+      "name": "とある暗部の少女共棲",
+      "name_cn": "某暗部的少女共栖",
+      "air_date": "2026-10-09",
+      "eps": 11,
+      "ep_status": 6,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-11-13T23:38:59+08:00"
+    },
     {
       "subject_id": 625799,
       "name": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
@@ -39,18 +63,6 @@
       "updated_at": "2026-11-11T16:58:22+08:00"
     },
     {
-      "subject_id": 537738,
-      "name": "とある暗部の少女共棲",
-      "name_cn": "某暗部的少女共栖",
-      "air_date": "2026-10-09",
-      "eps": 11,
-      "ep_status": 5,
-      "rate": 0,
-      "comment": "",
-      "private": false,
-      "updated_at": "2026-11-09T14:40:01+08:00"
-    },
-    {
       "subject_id": 554779,
       "name": "生徒会にも穴はある！",
       "name_cn": "学生会也有洞！",
@@ -73,18 +85,6 @@
       "comment": "",
       "private": false,
       "updated_at": "2026-11-08T22:55:19+08:00"
-    },
-    {
-      "subject_id": 622288,
-      "name": "FX戦士くるみちゃん",
-      "name_cn": "FX战士久留美",
-      "air_date": "2026-10-01",
-      "eps": 12,
-      "ep_status": 6,
-      "rate": 0,
-      "comment": "",
-      "private": false,
-      "updated_at": "2026-11-08T22:36:36+08:00"
     },
     {
       "subject_id": 568244,
