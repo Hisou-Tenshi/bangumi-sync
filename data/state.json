@@ -1,19 +1,43 @@
 {
   "version": 1,
-  "synced_at": "2026-11-13T22:04:02.224Z",
+  "synced_at": "2026-11-14T20:51:32.095Z",
   "user": {
     "id": 1009342,
     "username": "1009342",
     "nickname": "全人類都飛上天"
   },
   "summary": {
-    "on_hold": 0,
-    "dropped": 1,
     "wish": 10,
+    "doing": 14,
+    "on_hold": 0,
     "done": 255,
-    "doing": 14
+    "dropped": 1
   },
   "watching": [
+    {
+      "subject_id": 590553,
+      "name": "てつりょー！meet with 鉄道むすめ",
+      "name_cn": "铁旅！meet with 铁道少女",
+      "air_date": "2026-10-08",
+      "eps": 12,
+      "ep_status": 6,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-11-14T20:28:26+08:00"
+    },
+    {
+      "subject_id": 568244,
+      "name": "薬屋のひとりごと 第3期",
+      "name_cn": "药屋少女的呢喃 第三季",
+      "air_date": "2026-10-02",
+      "eps": 12,
+      "ep_status": 7,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-11-14T15:52:05+08:00"
+    },
     {
       "subject_id": 622288,
       "name": "FX戦士くるみちゃん",
@@ -73,30 +97,6 @@
       "comment": "",
       "private": false,
       "updated_at": "2026-11-09T13:03:56+08:00"
-    },
-    {
-      "subject_id": 590553,
-      "name": "てつりょー！meet with 鉄道むすめ",
-      "name_cn": "铁旅！meet with 铁道少女",
-      "air_date": "2026-10-08",
-      "eps": 12,
-      "ep_status": 5,
-      "rate": 0,
-      "comment": "",
-      "private": false,
-      "updated_at": "2026-11-08T22:55:19+08:00"
-    },
-    {
-      "subject_id": 568244,
-      "name": "薬屋のひとりごと 第3期",
-      "name_cn": "药屋少女的呢喃 第三季",
-      "air_date": "2026-10-02",
-      "eps": 12,
-      "ep_status": 6,
-      "rate": 0,
-      "comment": "",
-      "private": false,
-      "updated_at": "2026-11-08T22:22:07+08:00"
     },
     {
       "subject_id": 299427,
