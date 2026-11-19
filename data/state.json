@@ -1,30 +1,66 @@
 {
   "version": 1,
-  "synced_at": "2026-11-18T22:59:43.431Z",
+  "synced_at": "2026-11-19T23:08:18.813Z",
   "user": {
     "id": 1009342,
     "username": "1009342",
     "nickname": "全人類都飛上天"
   },
   "summary": {
-    "doing": 14,
-    "wish": 10,
-    "done": 255,
     "dropped": 1,
-    "on_hold": 0
+    "wish": 10,
+    "on_hold": 0,
+    "doing": 14,
+    "done": 255
   },
   "watching": [
+    {
+      "subject_id": 622288,
+      "name": "FX戦士くるみちゃん",
+      "name_cn": "FX战士久留美",
+      "air_date": "2026-10-01",
+      "eps": 12,
+      "ep_status": 8,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-11-19T22:19:39+08:00"
+    },
+    {
+      "subject_id": 624085,
+      "name": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
+      "name_cn": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
+      "air_date": "2026-10-06",
+      "eps": 25,
+      "ep_status": 7,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-11-19T22:19:38+08:00"
+    },
+    {
+      "subject_id": 625799,
+      "name": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
+      "name_cn": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
+      "air_date": "2026-10-06",
+      "eps": 12,
+      "ep_status": 7,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-11-19T18:26:57+08:00"
+    },
     {
       "subject_id": 260467,
       "name": "荒野のコトブキ飛行隊",
       "name_cn": "荒野的寿飞行队",
       "air_date": "2019-01-13",
       "eps": 12,
-      "ep_status": 10,
+      "ep_status": 12,
       "rate": 0,
       "comment": "",
       "private": false,
-      "updated_at": "2026-11-17T23:41:03+08:00"
+      "updated_at": "2026-11-19T10:55:48+08:00"
     },
     {
       "subject_id": 554779,
@@ -63,18 +99,6 @@
       "updated_at": "2026-11-14T15:52:05+08:00"
     },
     {
-      "subject_id": 622288,
-      "name": "FX戦士くるみちゃん",
-      "name_cn": "FX战士久留美",
-      "air_date": "2026-10-01",
-      "eps": 12,
-      "ep_status": 7,
-      "rate": 0,
-      "comment": "",
-      "private": false,
-      "updated_at": "2026-11-13T23:56:14+08:00"
-    },
-    {
       "subject_id": 537738,
       "name": "とある暗部の少女共棲",
       "name_cn": "某暗部的少女共栖",
@@ -85,30 +109,6 @@
       "comment": "",
       "private": false,
       "updated_at": "2026-11-13T23:38:59+08:00"
-    },
-    {
-      "subject_id": 625799,
-      "name": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
-      "name_cn": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
-      "air_date": "2026-10-06",
-      "eps": 12,
-      "ep_status": 6,
-      "rate": 0,
-      "comment": "",
-      "private": false,
-      "updated_at": "2026-11-11T18:05:30+08:00"
-    },
-    {
-      "subject_id": 624085,
-      "name": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
-      "name_cn": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
-      "air_date": "2026-10-06",
-      "eps": 25,
-      "ep_status": 6,
-      "rate": 0,
-      "comment": "",
-      "private": false,
-      "updated_at": "2026-11-11T16:58:22+08:00"
     },
     {
       "subject_id": 299427,
