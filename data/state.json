@@ -1,19 +1,55 @@
 {
   "version": 1,
-  "synced_at": "2026-11-21T21:47:04.165Z",
+  "synced_at": "2026-11-22T21:55:32.562Z",
   "user": {
     "id": 1009342,
     "username": "1009342",
     "nickname": "全人類都飛上天"
   },
   "summary": {
-    "wish": 10,
     "doing": 11,
-    "on_hold": 0,
+    "dropped": 1,
+    "wish": 10,
     "done": 259,
-    "dropped": 1
+    "on_hold": 0
   },
   "watching": [
+    {
+      "subject_id": 554779,
+      "name": "生徒会にも穴はある！",
+      "name_cn": "学生会也有洞！",
+      "air_date": "2026-10-03",
+      "eps": 12,
+      "ep_status": 8,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-11-22T16:11:25+08:00"
+    },
+    {
+      "subject_id": 568244,
+      "name": "薬屋のひとりごと 第3期",
+      "name_cn": "药屋少女的呢喃 第三季",
+      "air_date": "2026-10-02",
+      "eps": 12,
+      "ep_status": 8,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-11-22T15:36:53+08:00"
+    },
+    {
+      "subject_id": 537738,
+      "name": "とある暗部の少女共棲",
+      "name_cn": "某暗部的少女共栖",
+      "air_date": "2026-10-09",
+      "eps": 11,
+      "ep_status": 7,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-11-22T13:43:52+08:00"
+    },
     {
       "subject_id": 590553,
       "name": "てつりょー！meet with 鉄道むすめ",
@@ -61,42 +97,6 @@
       "comment": "",
       "private": false,
       "updated_at": "2026-11-19T18:26:57+08:00"
-    },
-    {
-      "subject_id": 554779,
-      "name": "生徒会にも穴はある！",
-      "name_cn": "学生会也有洞！",
-      "air_date": "2026-10-03",
-      "eps": 12,
-      "ep_status": 7,
-      "rate": 0,
-      "comment": "",
-      "private": false,
-      "updated_at": "2026-11-15T23:26:40+08:00"
-    },
-    {
-      "subject_id": 568244,
-      "name": "薬屋のひとりごと 第3期",
-      "name_cn": "药屋少女的呢喃 第三季",
-      "air_date": "2026-10-02",
-      "eps": 12,
-      "ep_status": 7,
-      "rate": 0,
-      "comment": "",
-      "private": false,
-      "updated_at": "2026-11-14T15:52:05+08:00"
-    },
-    {
-      "subject_id": 537738,
-      "name": "とある暗部の少女共棲",
-      "name_cn": "某暗部的少女共栖",
-      "air_date": "2026-10-09",
-      "eps": 11,
-      "ep_status": 6,
-      "rate": 0,
-      "comment": "",
-      "private": false,
-      "updated_at": "2026-11-13T23:38:59+08:00"
     },
     {
       "subject_id": 643828,
