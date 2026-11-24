@@ -1,19 +1,31 @@
 {
   "version": 1,
-  "synced_at": "2026-11-22T21:55:32.562Z",
+  "synced_at": "2026-11-24T02:58:42.638Z",
   "user": {
     "id": 1009342,
     "username": "1009342",
     "nickname": "全人類都飛上天"
   },
   "summary": {
-    "doing": 11,
-    "dropped": 1,
     "wish": 10,
     "done": 259,
+    "doing": 12,
+    "dropped": 1,
     "on_hold": 0
   },
   "watching": [
+    {
+      "subject_id": 276150,
+      "name": "恋する小惑星",
+      "name_cn": "恋爱小行星",
+      "air_date": "2020-01-03",
+      "eps": 12,
+      "ep_status": 1,
+      "rate": 0,
+      "comment": "",
+      "private": false,
+      "updated_at": "2026-11-23T23:54:29+08:00"
+    },
     {
       "subject_id": 554779,
       "name": "生徒会にも穴はある！",
