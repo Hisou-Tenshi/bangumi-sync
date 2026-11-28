@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "synced_at": "2026-11-26T00:34:41.603Z",
+  "synced_at": "2026-11-28T00:09:58.688Z",
   "user": {
     "id": 1009342,
     "username": "1009342",
     "nickname": "全人類都飛上天"
   },
   "summary": {
-    "done": 259,
-    "wish": 10,
-    "dropped": 1,
     "on_hold": 0,
+    "wish": 10,
+    "done": 259,
+    "dropped": 1,
     "doing": 12
   },
   "watching": [
